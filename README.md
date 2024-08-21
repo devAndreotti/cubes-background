@@ -1,4 +1,4 @@
-# CubeStyle
+# Cubes Background
 
 <div align="center">
   <img src="URL_DA_IMAGEM" alt="CubeStyle Banner" width="800" height="500"/>
