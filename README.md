@@ -1,7 +1,7 @@
 # Cubes Background
 
 <div align="center">
-  <img src="Thumb.png" alt="CubeStyle Banner" width="800" height="500"/>
+  <img src="Thumb.png" alt="CubeStyle Banner"/>
 </div>
 
 ## Descrição do Projeto
