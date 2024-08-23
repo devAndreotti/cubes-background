@@ -1,7 +1,7 @@
 # Cubes Background
 
 <div align="center">
-  <img src="Thumb.png" alt="CubeStyle Banner"/>
+  <img src="Thumb.png" alt="Cube Wallpaper"/>
 </div>
 
 ## Descrição do Projeto
@@ -38,4 +38,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## Nota
 
-Este projeto é para fins educacionais e demonstra técnicas de animação CSS. Sinta-se livre para explorar e adaptar conforme necessário.
+Este projeto demonstra técnicas de animação CSS. Sinta-se livre para explorar e adaptar conforme necessário.
