@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Projeto de animação em CSS que cria uma série de cubos animados com efeitos visuais dinâmicos em uma página web. Utiliza animações para transformar e movimentar cubos em uma área centralizada.
+Projeto de animação em CSS que cria uma série de cubos animados com efeitos visuais dinâmicos em uma página web. Utiliza animações para transformar e movimentar cubos.
 
 ## Tecnologias Empregadas
 
