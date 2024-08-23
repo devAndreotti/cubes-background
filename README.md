@@ -1,7 +1,7 @@
 # Cubes Background
 
 <div align="center">
-  <img src="Thumb.png" alt="Cube Wallpaper"/>
+  <img src="./Thumb.png" alt="Cube Wallpaper"/>
 </div>
 
 ## Descrição do Projeto
