@@ -1,7 +1,8 @@
+<!-- Projeto Finalizado -->
 # Cubes Background
 
 <div align="center">
-  <img src="./Thumb.png" alt="Cube Wallpaper"/>
+  <img src="./Cubes.png" alt="Cube Banner"/>
 </div>
 
 ## Descrição do Projeto
