@@ -14,6 +14,10 @@ Projeto de animação em CSS que cria uma série de cubos animados com efeitos v
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilos e animações dos cubos.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/cubes-background/).
+
 ## Como Executar
 
 1. Clone o repositório:
