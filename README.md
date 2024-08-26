@@ -3,13 +3,11 @@
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/cubes-background?color=FFF&labelColor=77c9fd&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/cubes-background?color=FFF&labelColor=7fc0fd&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/cubes-background?color=FFF&labelColor=8faffd&style=flat-square">
-  <!-- Último commit no GitHub -->
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/cubes-background?color=FFF&labelColor=ab90fd&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/cubes-background?color=FFF&labelColor=97a6fd&style=flat-square">
   <!-- Licença do GitHub -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=c277fd&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=a893fd&style=flat-square">
 </p>
 
 <div align="center">
