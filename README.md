@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Cubes Background
+# 🧊 Cubes Background
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
