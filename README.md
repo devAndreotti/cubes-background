@@ -25,7 +25,7 @@ Confira o projeto online através deste [link](https://devandreotti.github.io/cu
 ## 🧭 Como Executar
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/cube-style.git
+   git clone https://github.com/devAndreotti/cubes-background.git
    ```
 2. **Abra o arquivo `index.html` no navegador.**
 
