@@ -15,12 +15,13 @@
 
 ## 🌀 Descrição do Projeto
 Este projeto utiliza animações em CSS para criar uma série de cubos animados com efeitos visuais dinâmicos em uma página web. A técnica empregada transforma e movimenta cubos para gerar um fundo animado e visualmente interessante.
-## 🔍 Visualize o Projeto
-Confira o projeto online através deste [link](https://devandreotti.github.io/cubes-background/).
 
 ## 🛠 Tecnologias Empregadas
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilos e animações dos cubos.
+- **HTML**: Estrutura da página.
+- **CSS**: Estilos e animações dos cubos.
+
+## 🔍 Visualize o Projeto
+Confira o projeto online através deste [link](https://devandreotti.github.io/cubes-background/).
 
 ## 🧭 Como Executar
 1. **Clone o repositório**
@@ -39,3 +40,8 @@ Contribuições são bem-vindas! Para colaborar, siga estas etapas:
 
 ## 📝 Nota
 Este projeto demonstra técnicas de animação em CSS. Sinta-se livre para explorar e adaptar conforme necessário.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
